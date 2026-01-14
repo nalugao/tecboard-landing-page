@@ -1,0 +1,50 @@
+Nesse projeto pude implementar as técnicas e ferramentas abaixo:
+
+- O que é uma IDE e sua importância para organização do código.
+- A instalar e configurar o Visual Studio Code em português.
+- A utilizar extensões como Prettier e Live Server no VS Code.
+- A explorar as ferramentas de desenvolvimento do Google Chrome.
+- Como acessar e utilizar o Developer Tools para HTML, CSS e JavaScript.
+- A importância do doctype e a estrutura básica de um documento HTML.
+- A divisão entre HEAD e BODY em um documento HTML.
+- A hierarquia de títulos em HTML com tags de H1 a H6.
+- A importância de nomear arquivos e pastas corretamente em projetos HTML.
+- Como usar tags HTML básicas e sua semântica, como <html>, <meta>, <title>, <h1> a <h6>, <p>, <strong>, <em>, <sub>, e <sup>.
+- O uso correto de imagens em sites, formatos de imagem apropriados e sua relevância no desempenho do site.
+- Técnicas de edição e redimensionamento de imagens usando o GIMP para otimizar o carregamento da página.
+- A criação de listas ordenadas e desordenadas em HTML, incluindo técnicas de listas aninhadas.
+- A utilização da tag <a> para criar links e o uso de atributos como href, target, e rel para definir comportamentos de navegação.
+- A organização de projetos HTML com múltiplos arquivos e a criação de links relativos para navegação entre páginas internas.
+- Boas práticas de nomenclatura e estruturação de arquivos HTML para garantir compatibilidade e eficiência no gerenciamento do projeto.
+- A importância da semântica no HTML para conteúdo e SEO.
+- Como usar tags semânticas como <header>, <nav>, <main>, <section>, <footer>, <figure> e <figcaption>.
+- A diferença entre tags semânticas e não semânticas como <div> e <span>.
+- O papel do designer e do tecnolíder na entrega de layouts de front-end.
+- A utilização do Figma para visualizar layouts e extrair ativos.
+- A criação e organização de projetos HTML no VS Code.
+- A função e importância do favicon e configuração via tag <link>.
+- A navegação e exportação de ativos no Figma para otimização de sites.
+- Aplicar estilos em elementos HTML usando CSS inline, interno e externo.
+- Utilizar reset CSS e compreender o modelo de caixa para gerir margens e espaçamentos.
+- Ajustar cores e estilos de links, além de manipular elementos inline com <span>.
+- Integrar fontes personalizadas via Google Fonts e gerenciar hierarquia de fontes.
+- Implementar fontes locais com @font-face e usar font-display: swap.
+- Medir e ajustar tamanhos de fonte comparando design do Figma e navegador.
+- Aplicar centralização e entender o modelo de caixa no layout dos elementos.
+- Adaptar layouts para dispositivos diversos com media queries e pseudo-classes.
+- Como usar o Git para controle de versões e gerenciar mudanças no código.
+- O papel do GitHub como plataforma para armazenar e compartilhar repositórios.
+- Comandos essenciais do terminal para navegar e manipular diretórios.
+- Como instalar e configurar o Git e criar repositórios locais e remotos.
+- A utilização do VS Code para integrar e facilitar o uso do Git.
+- Processos para publicar, sincronizar e clonar repositórios no GitHub.
+- O conceito de branches para desenvolvimento paralelo e seguro de código.
+- O uso de pull requests para revisão e integração de mudanças no código.
+- A importância de hospedar sites em servidores adequados para acesso web.
+- A diferenciação entre hospedagem gratuita e paga, com análise de suas vantagens.
+- Como escolher servidores baseados no potencial tráfego do site.
+- O processo de escolha e registro de domínios, inclusive registros oficiais.
+- A relação entre e-mails personalizados e hospedagens pagas.
+- O impacto do suporte técnico na escolha de provedores.
+- Configurar GitHub Pages para publicar sites estáticos.
+- A importância de seguir boas práticas de controle de versão no GitHub.
