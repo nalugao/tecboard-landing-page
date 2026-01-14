@@ -9,24 +9,24 @@ Nesse projeto pude implementar as técnicas e ferramentas abaixo:
 - A divisão entre HEAD e BODY em um documento HTML.
 - A hierarquia de títulos em HTML com tags de H1 a H6.
 - A importância de nomear arquivos e pastas corretamente em projetos HTML.
-- Como usar tags HTML básicas e sua semântica, como <html>, <meta>, <title>, <h1> a <h6>, <p>, <strong>, <em>, <sub>, e <sup>.
+- Como usar tags HTML básicas e sua semântica, como html, meta, title, h1 a h6, p, strong, em, sub, e sup.
 - O uso correto de imagens em sites, formatos de imagem apropriados e sua relevância no desempenho do site.
 - Técnicas de edição e redimensionamento de imagens usando o GIMP para otimizar o carregamento da página.
 - A criação de listas ordenadas e desordenadas em HTML, incluindo técnicas de listas aninhadas.
-- A utilização da tag <a> para criar links e o uso de atributos como href, target, e rel para definir comportamentos de navegação.
+- A utilização da tag a para criar links e o uso de atributos como href, target, e rel para definir comportamentos de navegação.
 - A organização de projetos HTML com múltiplos arquivos e a criação de links relativos para navegação entre páginas internas.
 - Boas práticas de nomenclatura e estruturação de arquivos HTML para garantir compatibilidade e eficiência no gerenciamento do projeto.
 - A importância da semântica no HTML para conteúdo e SEO.
-- Como usar tags semânticas como <header>, <nav>, <main>, <section>, <footer>, <figure> e <figcaption>.
-- A diferença entre tags semânticas e não semânticas como <div> e <span>.
+- Como usar tags semânticas como header, nav, main, section, footer, figure e figcaption.
+- A diferença entre tags semânticas e não semânticas como div e span.
 - O papel do designer e do tecnolíder na entrega de layouts de front-end.
 - A utilização do Figma para visualizar layouts e extrair ativos.
 - A criação e organização de projetos HTML no VS Code.
-- A função e importância do favicon e configuração via tag <link>.
+- A função e importância do favicon e configuração via tag link.
 - A navegação e exportação de ativos no Figma para otimização de sites.
 - Aplicar estilos em elementos HTML usando CSS inline, interno e externo.
 - Utilizar reset CSS e compreender o modelo de caixa para gerir margens e espaçamentos.
-- Ajustar cores e estilos de links, além de manipular elementos inline com <span>.
+- Ajustar cores e estilos de links, além de manipular elementos inline com span.
 - Integrar fontes personalizadas via Google Fonts e gerenciar hierarquia de fontes.
 - Implementar fontes locais com @font-face e usar font-display: swap.
 - Medir e ajustar tamanhos de fonte comparando design do Figma e navegador.
