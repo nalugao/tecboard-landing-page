@@ -103,6 +103,13 @@ header img {
   margin: 75px 0 0 360px;
 }
 
+.logoGithub {
+  width: 30px;
+  display: block;
+  margin-top: 10px;
+
+}
+
 h1 {
   font-size: 80px;
   font-family: "Unbounded", sans-serif;
@@ -119,7 +126,7 @@ p {
   width: 792px;
 }
 
-a {
+.botaoTestar {
   font-size: 24px;
   color: #ffffff;
   font-family: "Poppins", sans-serif;
@@ -134,7 +141,7 @@ a {
   margin: 40px auto;
 }
 
-a:hover {
+.botaoTestar:hover {
   background-color: #8233e8;
 }
 
@@ -171,7 +178,7 @@ section img {
     height: 230px;
   }
 
-  a{
+  .botaoTestar{
     font-size: 20px;
     width: 251px;
     height: 66px;
